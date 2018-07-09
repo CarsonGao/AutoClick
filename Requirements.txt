@@ -1,0 +1,5 @@
+核心技术：
+    1.首先需要Android版本高于4.0，使用这个命令“adb shell uiautomator dump”命令，执行“adb shell uiautomator dump /data/local/tmp/uidump.xml”
+    2.然后将该xml文件pull到本地，从里面可以看到手机上当前页面的布局，在note节点下可以找到这些属性：text，resource-id，class，bounds
+    3.知道这些内容后就可以使用python对该xml文件解析获取到对应的属性，取出bounds的值，计算出对应元素区域的中心坐标
+    4.接着使用adb shell input tap 命令就可以点击该坐标

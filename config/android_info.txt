@@ -1,0 +1,138 @@
+vivo Y67A,  6.0,  4d7cb3b37f453e8b,  6HVGJJ5999999999
+,  Physical density: 320,  Physical size: 720x1280,  vivo,  23,  f4:70:ab:a0:52:ad
+
+Redmi Note 4,  6.0,  a4b7dcbd81fda4db,  6TRCWSOBTKNF6LO7
+,  Physical density: 480,  Physical size: 1080x1920,  Xiaomi,  23,  38:a4:ed:f3:44:7b
+
+Redmi Note 3,  5.1.1,  8ed4c9e9b768031f,  3f5f4171
+,  Physical density: 480,  Physical size: 1080x1920,  Xiaomi,  22,  00:0a:f5:7d:05:c4
+
+1503-A01,  6.0,  f2a22e70f2231920,  1672511739
+,  Physical density: 480,  Physical size: 1080x1920,  360,  23,  74:ac:5f:97:cd:58
+
+SM-G9300,  6.0.1,  e0a4fbdbd27e6b65,  49782ab4
+,  Physical density: 640,  Physical size: 1440x2560,  samsung,  23,  ac:5f:3e:87:f3:80
+
+
+Lenovo K30-TM,  4.4.4,  53112851c7f4b5ab,  c824e7c0
+,  Physical density: 320,  Physical size: 720x1280,  Lenovo,  19,  /system/bin/sh: cat: /sys/class/net/wlan0/address: No such file or directory
+
+Lenovo A828t,  4.2.1,  c72c907aea8fa87a,  09f5c6f5
+,  /system/bin/sh: wm: not found,  /system/bin/sh: wm: not found,  Lenovo,  17,  50:3c:c4:b8:79:e3
+
+MI 2,  4.1.1,  /system/bin/sh: settings: not found,  9755a597
+,  /system/bin/sh: wm: not found,  /system/bin/sh: wm: not found,  Xiaomi,  16,  14:f6:5a:a7:8b:ad
+
+OPPO R9s Plus,  6.0.1,  2b2bc4108ddb17e6,  5f91f412
+,  Physical density: 480,  Physical size: 1080x1920,  OPPO,  23,  1c:48:ce:30:00:97
+,  ,  ,  ,  ,  ,  ,  ,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
+ALP-AL00
+,  8.0.0
+,  7c8be1fc057bf629
+,  UYT0217A12014004
+,  Physical density: 480
+,  Physical size: 1440x2560
+Override size: 1080x1920
+,  HUAWEI
+,  26
+,  
